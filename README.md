@@ -1,2 +1,2 @@
-# busybox-emu
-BusyBox Emulator for android
+# BusyBox Emulator 
+BusyBox Emulator can run a linux cmds on your android
