@@ -91,6 +91,6 @@ BusyBox provides a giant collection of Unix utilities. Here are the most useful 
 
 
 ## 👨‍💻 Author
-- **Jebril** - *Pro Scratch Developer & Linux Enthusiast*
+- **scratchitukeren-dev** - *Pro Scratch Developer & Linux Enthusiast*
 ---
 *Created with ❤️ by a 10-year-old developer passionate about Linux.*
